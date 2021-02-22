@@ -1,2 +1,2 @@
 # hello-world-2
-none
+a student who is learning progarmming wants to become a game producer.
